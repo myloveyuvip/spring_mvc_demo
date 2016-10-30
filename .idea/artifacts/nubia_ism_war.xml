@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nubia_ism:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="nubia_ism.war">
+      <element id="artifact" artifact-name="nubia_ism:war exploded" />
+    </root>
+  </artifact>
+</component>
